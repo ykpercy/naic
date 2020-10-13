@@ -43,7 +43,7 @@ x_train, x_test = model_selection.train_test_split(data, test_size=0.05, random_
 
 
 # model training
-autoencoder.fit(x=x_train, y=x_train, batch_size=512, epochs=50, validation_split=0.1)
+autoencoder.fit(x=x_train, y=x_train, batch_size=512, epochs=100, validation_split=0.1)
 
 # model save
 # save encoder
