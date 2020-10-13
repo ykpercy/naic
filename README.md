@@ -21,5 +21,5 @@ line55 --> modelsave2 = '/content/drive/My Drive/NAIC/Modelsave/decoder.h5'  # �
 
 训练结束后，导出文件Modelsave。
 
-加油！
+祝一切顺利！
 
