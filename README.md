@@ -1,7 +1,9 @@
 # naic
 文件目录
 --baseline_tensorflow
+
 --data
+
 --model_zoo(可忽略)
 
 data下载链接：https://awscdn.datafountain.cn/cometition_data2/Files/PengCheng2020/CSI/Hdata.mat
