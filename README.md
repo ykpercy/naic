@@ -12,6 +12,7 @@ data下载链接：https://awscdn.datafountain.cn/cometition_data2/Files/PengChe
 
 训练时需要修改baseline_tensorflow/Model_train.py内的文件读取和保存路径，如下：
 
+
 line35 --> data_load_address = '/content/drive/My Drive/NAIC/data'  # 此处改为实际文件路径 “实际路径 + /data"
 
 line51 --> modelsave1 = '/content/drive/My Drive/NAIC/Modelsave/encoder.h5'  # 此处改为 “实际路径 + /Modelsave/encoder.h5”
