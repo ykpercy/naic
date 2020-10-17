@@ -1,0 +1,6 @@
+TensorFlow 2.1.0
+Numpy
+matplotlib
+h5py
+Sklearn
+
